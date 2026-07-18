@@ -1,0 +1,44 @@
+{
+  "app_name": "نظام إدارة القوى العاملة",
+  "nav": {
+    "dashboard": "لوحة المتابعة",
+    "employees": "الموظفون",
+    "attendance": "الحضور اليومي",
+    "worker_evaluation": "تقييم العمال",
+    "supervisor_evaluation": "تقييم المشرفين",
+    "reports": "التقارير",
+    "notifications": "الإشعارات",
+    "logout": "تسجيل الخروج"
+  },
+  "attendance_status": {
+    "present": "حاضر",
+    "absent": "غائب",
+    "weekly_off": "راحة أسبوعية",
+    "annual_leave": "إجازة سنوية",
+    "sick_leave": "إجازة مرضية",
+    "casual_leave": "إجازة عارضة",
+    "permission": "إذن",
+    "mission": "مأمورية",
+    "overtime": "ساعات إضافية",
+    "late": "تأخير",
+    "early_leave": "انصراف مبكر",
+    "suspension": "إيقاف عن العمل"
+  },
+  "eval_level": {
+    "excellent": "ممتاز",
+    "very_good": "جيد جدًا",
+    "good": "جيد",
+    "acceptable": "مقبول",
+    "poor": "ضعيف"
+  },
+  "common": {
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "search": "بحث",
+    "export_excel": "تصدير Excel",
+    "export_pdf": "تصدير PDF",
+    "add_new": "إضافة جديد",
+    "edit": "تعديل",
+    "delete": "حذف"
+  }
+}
